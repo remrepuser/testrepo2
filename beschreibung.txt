@@ -7,5 +7,5 @@ Beschreibung angelegt;
 Inhaltsverzeichnis:
 
 1.Kapitel
-Hier kommt der Inhalt
+Hier kommt der Inhalt.
 
